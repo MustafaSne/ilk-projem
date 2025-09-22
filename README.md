@@ -1,1 +1,3 @@
 # ilk-projem
+
+bu benim ilk projem
